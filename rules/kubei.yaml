@@ -1,6 +1,6 @@
 #kubei images
-"gcr.io/portshift-release/clair/clair-local-scan": "yanyan45/clair-local-scan"
-"gcr.io/portshift-release/clair/clair-db": "yanyan45/clair-db"
-"gcr.io/development-infra-208909/kubei": "yanyan45/kubei"
-"gcr.io/development-infra-208909/klar": "yanyan45/klar"
-"gcr.io/development-infra-208909/dockle": "yanyan45/dockle"
+"gcr.io/portshift-release/clair/clair-local-scan:latest": "yanyan45/clair-local-scan"
+"gcr.io/portshift-release/clair/clair-db:latest": "yanyan45/clair-db"
+"gcr.io/development-infra-208909/kubei:1.0.8": "yanyan45/kubei"
+"gcr.io/development-infra-208909/klar:1.0.7": "yanyan45/klar"
+"gcr.io/development-infra-208909/dockle:1.0.0": "yanyan45/dockle"
