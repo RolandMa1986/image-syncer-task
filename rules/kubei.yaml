@@ -4,3 +4,4 @@
 "gcr.io/development-infra-208909/kubei:1.0.8": "yanyan45/kubei"
 "gcr.io/development-infra-208909/klar:1.0.7": "yanyan45/klar"
 "gcr.io/development-infra-208909/dockle:1.0.0": "yanyan45/dockle"
+"gcr.io/k8s-staging-publishing-bot/k8s-publishing-bot-nightly": "yanyan45/k8s-publishing-bot"
