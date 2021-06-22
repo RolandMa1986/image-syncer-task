@@ -6,3 +6,4 @@
 "gcr.io/development-infra-208909/dockle:1.0.0": "yanyan45/dockle"
 "gcr.io/k8s-staging-publishing-bot/k8s-publishing-bot-nightly": "yanyan45/k8s-publishing-bot"
 "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.7": "yanyan45/node-problem-detector:v0.8.7"
+"gcr.io/distroless/base-debian10:latest":"yanyan45/base-debian10:latest"
