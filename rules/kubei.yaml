@@ -7,3 +7,4 @@
 "gcr.io/k8s-staging-publishing-bot/k8s-publishing-bot-nightly": "yanyan45/k8s-publishing-bot"
 "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.7": "yanyan45/node-problem-detector:v0.8.7"
 "gcr.io/distroless/base-debian10:latest": "yanyan45/base-debian10:latest"
+"k8s.gcr.io/build-image/debian-base:buster-v1.4.0":  "yanyan45/debian-base:buster-v1.4.0"
