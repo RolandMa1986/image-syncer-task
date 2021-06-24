@@ -11,4 +11,4 @@
 "k8s.gcr.io/etcd:3.4.13-0":  "yanyan45/etcd:3.4.13-0"
 "k8s.gcr.io/kube-scheduler:v1.19.7":  "yanyan45/kube-scheduler:v1.19.7"
 "k8s.gcr.io/kube-proxy:v1.19.7":  "yanyan45/kube-proxy:v1.19.7"
-"k8s.gcr.io/build-image/debian-iptables:buster-v1.6.2":  "yanyan45/kube-proxy:v1.19.7"
+"k8s.gcr.io/build-image/debian-iptables:buster-v1.6.2":  "yanyan45/debian-iptables:buster-v1.6.2"
