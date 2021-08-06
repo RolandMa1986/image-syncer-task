@@ -14,3 +14,4 @@
 "k8s.gcr.io/build-image/debian-iptables:buster-v1.6.2":  "yanyan45/debian-iptables:buster-v1.6.2"
 "k8s.gcr.io/dns/k8s-dns-node-cache:1.19.0": "yanyan45/k8s-dns-node-cache:1.19.0"
 "k8s.gcr.io/ingress-nginx/controller:v0.48.1": "yanyan45/nginx-ingress-controller:v0.48.1"
+"quay.io/operator-framework/olm:latest": "yanyan45/olm:latest"
