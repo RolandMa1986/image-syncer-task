@@ -15,3 +15,5 @@
 "k8s.gcr.io/dns/k8s-dns-node-cache:1.19.0": "yanyan45/k8s-dns-node-cache:1.19.0"
 "k8s.gcr.io/ingress-nginx/controller:v0.48.1": "yanyan45/nginx-ingress-controller:v0.48.1"
 "quay.io/operator-framework/olm:latest": "yanyan45/olm:latest"
+"quay.io/kiali/kiali-operator:v1.38.1": "yanyan45/kiali-operator:v1.38.1"
+
